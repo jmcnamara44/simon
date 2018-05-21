@@ -1,0 +1,7 @@
+body {
+  background-color: lightgray;
+}
+#simon-output {
+  min-height: 60px;
+  font-size: 50px;
+}
